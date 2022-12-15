@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Identificación de los Componentes Ambientales de acuerdo al contexto'
